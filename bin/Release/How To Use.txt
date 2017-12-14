@@ -1,0 +1,14 @@
+
+  How to use Backgrounds Wallpaper Changer
+
+  1) Put the EXE in a safe place.
+  2) Open windows explorer and type in shell:startup
+  3) Create a new shortcut for the wallpaper changer, no special settings or configurations.
+  4) Run the program and click the "Pick Dir" button to set the background image directory.  
+  5) You can adjust minutes and click the 'Set' button to finalize it.  The default wallpaper change intraval is 30 minutes.
+  6) Click the 'To Tray' to hide the program.
+  7) You can show the program again by clicking the wall paper changer icon in the lower right windows tray.
+  8) The next time the wallpaper changer starts up at boot it will automatically hide after 5 seconds.
+  9) Current iteration is limited to ".jpg" images.
+ 10) The program uses a file called "background.bmp" in your images directory to set the wallpaper, it will be written over.
+
